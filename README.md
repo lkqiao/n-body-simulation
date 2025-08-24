@@ -3,4 +3,4 @@ Built custom physics engine for n particles interacting via gravity. Supports no
 
 A mass spectrum is essentially a function $\phi(m)$, where there are $\phi(m)$ number of objects with mass $m$. In 1955, Salpeter found that the distribution of stellar masses closely follows a power law, with exponent -2.35. It turns out that many objects in the universe, like stars, tend to follow a very similar empirical power law, with exponent -2. This project aims to provide insight towards the appearance of this exponent by simulating object formation through particle collisions.  
 
-Project inspired by: https://www.youtube.com/watch?v=AaLwBdRXslM&amp;ab_channel=PhysicsfortheBirds.
+Inspired by [this Youtube video](https://www.youtube.com/watch?v=AaLwBdRXslM&ab_channel=PhysicsfortheBirds) by Physics for the Birds.
